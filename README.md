@@ -1,4 +1,4 @@
-# 2D-Mechanical-
+# 2D-Mechanical-Arm
 CÓDIGO:
 
 #include <Servo.h>
